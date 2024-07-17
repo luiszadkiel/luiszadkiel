@@ -29,6 +29,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
 
 <!--
 **luiszadkiel/luiszadkiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
