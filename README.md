@@ -21,8 +21,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?style=flat&logo=eclipse&logoColor=2C2255)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=0078D4)&nbsp;
 
 ## base de datos  
 ![Database](https://img.shields.io/badge/-Database-05122A?style=flat&logo=database&logoColor=4EA94B)&nbsp;
